@@ -1,0 +1,18 @@
+.submit p:hover{
+  opacity:0.6
+}
+
+.submit{
+  text-align:center;
+}
+
+.contact tr{
+  height:7rem;
+}
+
+.contact th{
+  width:150px;
+  background-color:white;
+}
+
+td .hoge{width:480px;}
